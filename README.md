@@ -1,6 +1,6 @@
 # JogoRPG
 
-Este é um projeto de um jogo RPG simples em Java, que utiliza a programação orientada a objetos. O objetivo do jogo é ajustar os atributos de diferentes personagens conforme especificado.
+Trata-se de um projeto de um jogo RPG simples em Java, que utiliza a programação orientada a objetos. O objetivo do jogo é ajustar os atributos de diferentes personagens conforme especificado.
 
 ## Descrição do Jogo
 
