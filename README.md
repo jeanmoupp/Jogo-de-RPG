@@ -84,7 +84,7 @@ private static final String PASSWORD = "sua_senha";
 
 Compile e execute o programa:
 ```sh
-javac RPGGame.java
+java RPGGame.java
 java RPGGame
 ```
 
