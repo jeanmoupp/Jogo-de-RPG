@@ -490,4 +490,5 @@ JogoRPG/
 ## Contato
 
 Autor: Jean de Andrade Barbosa
+
 Email: jeanandradepasa@gmail.com
